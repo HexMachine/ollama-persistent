@@ -1,0 +1,6 @@
+ollama>=0.1.0
+requests>=2.31.0
+colorama>=0.4.6
+# readline is built-in on Unix/Linux/macOS
+# On Windows, you may want to install pyreadline3 for better input handling:
+# pyreadline3>=3.4.0
